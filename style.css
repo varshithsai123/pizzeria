@@ -1,5 +1,5 @@
 body{
-	background-image: url("images/Bg.jpg");
+	background-image: url("Bg.jpg");
 }
 
 .topnav {
@@ -75,7 +75,7 @@ body{
   }
 
   #add_toppings{
-	/* padding-left:30px; */
+    padding-left:30px; 
 	width:200px;
 	height:180px;
 	border: none;
